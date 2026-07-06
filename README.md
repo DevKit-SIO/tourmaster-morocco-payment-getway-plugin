@@ -76,11 +76,19 @@ If exchange rate data for a currency is missing, the plugin logs a warning and f
 
 ## Testing
 
-Use CMI's **test gateway** (`https://test-attijari.cmi.co.ma/fim/est3Dgate`) with your sandbox Client ID and Store Key, and leave **CMI Live Mode** unchecked. Refer to CMI's own test card documentation for sandbox card numbers, since (unlike some gateways) CMI does not publish a fixed universal test-card set — your sandbox merchant account credentials determine which test cards are accepted.
+Use CMI's **test gateway** (`https://test-payment.cmi.co.ma/fim/est3Dgate`) with your sandbox Client ID and Store Key, and leave **CMI Live Mode** unchecked. Refer to CMI's own test card documentation for sandbox card numbers, since (unlike some gateways) CMI does not publish a fixed universal test-card set — your sandbox merchant account credentials determine which test cards are accepted.
 
 ## Security
 
 If you discover a security issue with this integration, please report it privately rather than opening a public issue.
+
+## Support This Project
+ 
+If this plugin saved you time, consider supporting its development:
+ 
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/3QDJ6XAUCU4NN)
+ 
+Every bit helps keep this integration maintained and up to date with TourMaster and CMI changes.
 
 ## License
 
